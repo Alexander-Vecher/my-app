@@ -31,6 +31,7 @@ function Rating() {
             <Star selected={true}/>
             <Star selected={true}/>
             <Star selected={false}/>
+            <Star selected={false}/>
         </div>
     )
 }
